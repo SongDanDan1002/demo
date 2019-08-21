@@ -1,3 +1,4 @@
 node_modules
 this two
 alert("欢迎")
+alertsandfksjf
